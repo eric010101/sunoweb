@@ -1,0 +1,119 @@
+<?php
+
+$base_url = 'http://localhost:3000';
+
+function make_get_request($url) {
+    $options = array(
+        'http' => array(
+            'header'  => "Content-type: application/json\r\n",
+            'method'  => 'GET',
+        ),
+    );
+    $context  = stream_context_create($options);
+    $result = file_get_contents($url, false, $context);
+    if ($result === FALSE) {
+        return null;
+    }
+    return json_decode($result, true);
+}
+
+function get_all_music() {
+    global $base_url;
+    $url = "$base_url/api/get";
+    return make_get_request($url);
+}
+
+function get_music_details($music_id) {
+    global $base_url;
+    $url = "$base_url/api/get?id=$music_id";
+    return make_get_request($url);
+}
+
+$music_data = get_all_music();
+
+?>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>All Music with Clips</title>
+    <style>
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        table, th, td {
+            border: 1px solid black;
+        }
+        th, td {
+            padding: 10px;
+            text-align: left;
+        }
+        th {
+            background-color: #f2f2f2;
+        }
+    </style>
+</head>
+<body>
+    <h1>All Music with Clips</h1>
+    <?php if ($music_data): ?>
+        <table>
+            <tr>
+                <th>ID</th>
+                <th>Title</th>
+                <th>Status</th>
+                <th>Audio URL</th>
+                <th>Video URL</th>
+                <th>Details</th>
+            </tr>
+            <?php foreach ($music_data as $music): ?>
+                <?php foreach ($music as $item): ?>
+                    <?php
+                        $music_id = $item['id'];
+                        $title = $item['title'];
+                        $status = $item['status'];
+                        $audio_url = $item['audio_url'];
+                        $video_url = $item['video_url'];
+                        $details = get_music_details($music_id);
+                    ?>
+                    <tr>
+                        <td><?php echo htmlspecialchars($music_id); ?></td>
+                        <td><?php echo htmlspecialchars($title); ?></td>
+                        <td><?php echo htmlspecialchars($status); ?></td>
+                        <td>
+                            <?php if ($audio_url): ?>
+                                <a href="<?php echo htmlspecialchars($audio_url); ?>" target="_blank">Download Audio</a><br>
+                                <audio controls src="<?php echo htmlspecialchars($audio_url); ?>"></audio>
+                            <?php else: ?>
+                                N/A
+                            <?php endif; ?>
+                        </td>
+                        <td>
+                            <?php if ($video_url): ?>
+                                <a href="<?php echo htmlspecialchars($video_url); ?>" target="_blank">Download Video</a><br>
+                                <video controls width="300">
+                                    <source src="<?php echo htmlspecialchars($video_url); ?>" type="video/mp4">
+                                    Your browser does not support the video tag.
+                                </video>
+                            <?php else: ?>
+                                N/A
+                            <?php endif; ?>
+                        </td>
+                        <td>
+                            <?php if ($details): ?>
+                                <pre><?php echo htmlspecialchars(json_encode($details, JSON_PRETTY_PRINT)); ?></pre>
+                            <?php else: ?>
+                                N/A
+                            <?php endif; ?>
+                        </td>
+                    </tr>
+                <?php endforeach; ?>
+            <?php endforeach; ?>
+        </table>
+    <?php else: ?>
+        <p>No music found.</p>
+    <?php endif; ?>
+</body>
+</html>

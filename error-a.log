@@ -1,0 +1,29 @@
+[Wed Jun 19 09:22:09.532261 2024] [mpm_event:notice] [pid 3707:tid 130325156534144] AH00489: Apache/2.4.58 (Ubuntu) configured -- resuming normal operations
+[Wed Jun 19 09:22:09.532386 2024] [core:notice] [pid 3707:tid 130325156534144] AH00094: Command line: '/usr/sbin/apache2'
+[Wed Jun 19 09:23:10.166933 2024] [mpm_event:notice] [pid 3707:tid 130325156534144] AH00492: caught SIGWINCH, shutting down gracefully
+[Wed Jun 19 09:23:10.304375 2024] [mpm_prefork:notice] [pid 12345] AH00163: Apache/2.4.58 (Ubuntu) configured -- resuming normal operations
+[Wed Jun 19 09:23:10.304453 2024] [core:notice] [pid 12345] AH00094: Command line: '/usr/sbin/apache2'
+[Wed Jun 19 09:23:10.488310 2024] [mpm_prefork:notice] [pid 12345] AH00170: caught SIGWINCH, shutting down gracefully
+[Wed Jun 19 09:23:10.664239 2024] [mpm_prefork:notice] [pid 12386] AH00163: Apache/2.4.58 (Ubuntu) configured -- resuming normal operations
+[Wed Jun 19 09:23:10.664303 2024] [core:notice] [pid 12386] AH00094: Command line: '/usr/sbin/apache2'
+[Wed Jun 19 09:23:11.483487 2024] [mpm_prefork:notice] [pid 12386] AH00170: caught SIGWINCH, shutting down gracefully
+[Wed Jun 19 09:23:11.663267 2024] [mpm_prefork:notice] [pid 12436] AH00163: Apache/2.4.58 (Ubuntu) configured -- resuming normal operations
+[Wed Jun 19 09:23:11.663324 2024] [core:notice] [pid 12436] AH00094: Command line: '/usr/sbin/apache2'
+[Wed Jun 19 09:23:14.643304 2024] [mpm_prefork:notice] [pid 12436] AH00170: caught SIGWINCH, shutting down gracefully
+[Wed Jun 19 09:23:14.826238 2024] [mpm_prefork:notice] [pid 12530] AH00163: Apache/2.4.58 (Ubuntu) configured -- resuming normal operations
+[Wed Jun 19 09:23:14.826302 2024] [core:notice] [pid 12530] AH00094: Command line: '/usr/sbin/apache2'
+[Wed Jun 19 09:23:20.153390 2024] [mpm_prefork:notice] [pid 12530] AH00170: caught SIGWINCH, shutting down gracefully
+[Wed Jun 19 09:23:20.710728 2024] [mpm_prefork:notice] [pid 13232] AH00163: Apache/2.4.58 (Ubuntu) OpenSSL/3.0.13 configured -- resuming normal operations
+[Wed Jun 19 09:23:20.710792 2024] [core:notice] [pid 13232] AH00094: Command line: '/usr/sbin/apache2'
+[Wed Jun 19 09:23:38.676873 2024] [mpm_prefork:notice] [pid 13232] AH00171: Graceful restart requested, doing restart
+[Wed Jun 19 09:23:38.964587 2024] [mpm_prefork:notice] [pid 13232] AH00163: Apache/2.4.58 (Ubuntu) OpenSSL/3.0.13 configured -- resuming normal operations
+[Wed Jun 19 09:23:38.964620 2024] [core:notice] [pid 13232] AH00094: Command line: '/usr/sbin/apache2'
+[Wed Jun 19 09:23:39.011505 2024] [mpm_prefork:notice] [pid 13232] AH00171: Graceful restart requested, doing restart
+[Wed Jun 19 09:23:39.204150 2024] [mpm_prefork:notice] [pid 13232] AH00163: Apache/2.4.58 (Ubuntu) OpenSSL/3.0.13 configured -- resuming normal operations
+[Wed Jun 19 09:23:39.204247 2024] [core:notice] [pid 13232] AH00094: Command line: '/usr/sbin/apache2'
+[Wed Jun 19 09:23:39.367331 2024] [mpm_prefork:notice] [pid 13232] AH00170: caught SIGWINCH, shutting down gracefully
+[Wed Jun 19 09:23:39.640441 2024] [mpm_prefork:notice] [pid 17341] AH00163: Apache/2.4.58 (Ubuntu) OpenSSL/3.0.13 configured -- resuming normal operations
+[Wed Jun 19 09:23:39.640509 2024] [core:notice] [pid 17341] AH00094: Command line: '/usr/sbin/apache2'
+[Wed Jun 19 09:23:43.580293 2024] [mpm_prefork:notice] [pid 17341] AH00171: Graceful restart requested, doing restart
+[Wed Jun 19 09:23:43.783441 2024] [mpm_prefork:notice] [pid 17341] AH00163: Apache/2.4.58 (Ubuntu) OpenSSL/3.0.13 configured -- resuming normal operations
+[Wed Jun 19 09:23:43.783460 2024] [core:notice] [pid 17341] AH00094: Command line: '/usr/sbin/apache2'

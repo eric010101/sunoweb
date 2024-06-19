@@ -1,0 +1,79 @@
+Item 1:
+id: 0f8e06a3-d7f5-4cd7-8a58-cdad2f477a03
+title: 孤独的灵魂
+image_url: https://cdn1.suno.ai/image_0f8e06a3-d7f5-4cd7-8a58-cdad2f477a03.png
+lyric: [Verse]
+夜深人静时
+寂寞在心底
+没有人陪我
+只有影子
+[Verse 2]
+窗外的月光
+映照我眼眸
+思绪在游荡
+没有归宿
+[Chorus]
+我感到孤独
+心中空荡荡
+找不到个伴
+和我一起走
+[Verse 3]
+回忆的片段
+浮现在脑海
+曾经的温暖
+如今已远去
+[Bridge]
+黑暗中寻找
+一丝的光亮
+心灵在呼唤
+真正的朋友
+[Chorus]
+我感到孤独
+心中空荡荡
+找不到个伴
+和我一起走
+audio_url: https://cdn1.suno.ai/0f8e06a3-d7f5-4cd7-8a58-cdad2f477a03.mp3
+video_url: https://cdn1.suno.ai/0f8e06a3-d7f5-4cd7-8a58-cdad2f477a03.mp4
+created_at: 2024-06-14T05:17:28.866Z
+model_name: chirp-v3.5
+status: complete
+gpt_description_prompt: 创作一首关于孤独感的歌曲，深入探索个体的内心世界。
+prompt: [Verse]
+夜深人静时
+寂寞在心底
+没有人陪我
+只有影子
+
+[Verse 2]
+窗外的月光
+映照我眼眸
+思绪在游荡
+没有归宿
+
+[Chorus]
+我感到孤独
+心中空荡荡
+找不到个伴
+和我一起走
+
+[Verse 3]
+回忆的片段
+浮现在脑海
+曾经的温暖
+如今已远去
+
+[Bridge]
+黑暗中寻找
+一丝的光亮
+心灵在呼唤
+真正的朋友
+
+[Chorus]
+我感到孤独
+心中空荡荡
+找不到个伴
+和我一起走
+type: gen
+tags: 流行，沉郁，电子
+error_message: None
+

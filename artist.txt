@@ -1,0 +1,148 @@
+Drake：嘻哈、Trap、男声  
+Bruno Mars：放克、舞曲流行、Groovy、男声  
+Fleetwood Mac：经典摇滚、悦耳  
+Ed Sheeran：民谣、原声吉他、男声  
+Tim McGraw：乡村、美国风、男声  
+Elton John：钢琴流行摇滚、戏剧化、男声  
+Dolly Parton：乡村、讲故事、女声  
+Red Hot Chili Peppers：放克摇滚、重鼓  
+Coldplay：另类摇滚、氛围  
+Taylor Swift：流行、另类民谣、情感、女声  
+Elvis Presley：50年代摇滚、英雄主题、男声  
+Adele：灵魂、情感、Torch-Lounge、女声  
+Ariana Grande：流行、舞曲流行、空灵、女声  
+Billie Eilish：流行、黑暗、极简、女声  
+The Weeknd：RnB、黑暗、电影、男声  
+Beyoncé：RnB、Anthemic、Danceable、女声  
+Kendrick Lamar：嘻哈、抒情、讲故事、男声  
+Lady Gaga：流行、戏剧、舞曲、女声  
+Jay-Z：嘻哈、激进、讲故事、男声  
+Rihanna：RnB、舞曲流行、喜庆、女声  
+Kanye West：嘻哈、前卫、折衷、男声  
+Justin Bieber：流行、舞曲、男声  
+Katy Perry：流行、闪光、喜庆、女声  
+Snoop Dogg：说唱、放克、男声  
+Metallica：重金属、力量  
+AC/DC：硬摇滚、跺脚舞  
+Madonna：舞曲流行、High-NRG、女声  
+David Bowie：70年代英式摇滚、艺术、男声  
+Bob Dylan：民谣、讲故事、原声吉他、男声  
+Post Malone：说唱、空灵、氛围、男声  
+Maroon 5：流行摇滚、舞曲、男声  
+Shakira：拉丁、舞曲流行、喜庆、女声  
+Dua Lipa：迪斯科、舞曲流行、时髦、女声  
+Michael Jackson：80年代流行、舞曲、男声  
+Prince：放克、折衷、华丽、男声  
+Miley Cyrus：流行、摇滚、派对、女声  
+Cardi B：说唱、激进、派对、女声  
+Imagine Dragons：摇滚、赞美诗、情感  
+Camila Cabello：流行、拉丁爵士、喜庆、女声  
+Harry Styles：流行、摇滚、时髦、男声  
+Sam Smith：灵魂乐、情感、休闲乐、男声  
+Lizzo：流行乐、放克乐、赋权乐、女声  
+Daft Punk：电子乐、舞曲、未来派  
+Gorillaz：另类摇滚、电子乐、独特  
+The Beatles：60年代英国流行乐、摇滚  
+Queen：摇滚乐、歌剧乐、戏剧乐、男声  
+Led Zeppelin：硬摇滚、布鲁斯摇滚、史诗  
+Pink Floyd：摇滚乐、前卫乐、氛围  
+The Rolling Stones：摇滚乐、布鲁斯摇滚、古典乐  
+Bob Marley：雷鬼乐、平和乐、深情乐、男声  
+Frank Sinatra：1940年代大乐队、休闲歌手、男声  
+Aretha Franklin：灵魂乐、福音乐、强劲乐、女声  
+Whitney Houston：流行乐、RnB、情感乐、女声  
+Stevie Wonder：灵魂乐、放克乐、欢快乐、男声  
+The Chainsmokers：电子舞曲、舞曲、派对  
+Nicki Minaj：说唱、舞曲、大胆乐、女声  
+Green Day：朋克摇滚、激进、年轻  
+Nirvana：垃圾摇滚、黑暗、原始、男声  
+Amy Winehouse：灵魂乐、爵士乐、火炬休息室、女声  
+Linkin Park：摇滚、新金属、情感  
+Aerosmith：摇滚、硬摇滚、经典  
+Bon Jovi：摇滚、国歌、体育场  
+Billy Joel：流行音乐、摇滚、讲故事、男声  
+Phil Collins：流行音乐、摇滚、情感、配乐、男声  
+Genesis：摇滚、前卫、艺术  
+Eagles：摇滚、乡村摇滚、和谐  
+The Doors：摇滚、迷幻、神秘  
+Janis Joplin：摇滚、布鲁斯摇滚、原始情感、女声  
+Jimi Hendrix：摇滚、迷幻、吉他大师、男声  
+The Who：摇滚、硬摇滚、戏剧化  
+Black Sabbath：重金属、毁灭  
+Iron Maiden：重金属、史诗、戏剧化  
+Judas Priest：重金属、力量、皮革  
+Motörhead：重金属、摇滚、激进  
+Slayer：激流金属、激进、黑暗  
+Ozzy Osbourne：重金属、黑暗、戏剧化、男声  
+Skrillex：回响贝斯、电子、激烈、男声  
+Calvin Harris：电子舞曲、舞曲、喜庆、男声  
+Avicii：电子舞曲、旋律、欣快、男声  
+Arctic Monkeys：独立摇滚、车库摇滚、酷炫  
+Tame Impala：迷幻摇滚、梦幻、悦耳  
+The Strokes：独立摇滚、酷炫、原始  
+Vampire Weekend：独立摇滚、折衷主义、乐观  
+Kings of Leon：摇滚、情感、原始  
+The Killers：摇滚、合成器流行音乐、赞美诗、男声  
+System of a Down：金属、政治、古怪  
+Radiohead：另类摇滚、实验、大气  
+Foo Fighters：摇滚、另类、活力  
+Muse：摇滚、前卫、戏剧  
+Tool：前卫金属、黑暗、复杂  
+Rage Against the Machine：说唱金属、政治、激进  
+Pearl Jam：垃圾摇滚、摇滚、情感  
+Soundgarden：90年代垃圾摇滚、沉重、黑暗  
+Alice in Chains：垃圾摇滚、黑暗、旋律  
+Sigur Rós：后摇滚、空灵、大气、冰岛  
+Björk：另类、实验、不寻常、女声  
+Enya：新时代、空灵、平静、女声  
+Deadmau5：电子、浩室、前卫  
+Marshmello：电子舞曲、舞曲、快乐  
+Zedd：电子舞曲、舞曲流行、活力、男声  
+The XX：独立流行音乐，极简、大气  
+Lana Del Rey：流行、悲伤、电影、女声  
+Kacey Musgraves：乡村、流行、悦耳、女声  
+St. Vincent：艺术摇滚、折衷、不同寻常、女声  
+Childish Gambino：嘻哈、放克、深思熟虑、男声  
+SZA：RnB、新灵魂乐、情感、女声  
+Frank Ocean：RnB、深情、内省、男声  
+Tyler, The Creator：嘻哈、折衷、不同寻常、男声  
+Solange：RnB、灵魂乐、艺术、女声  
+Brockhampton：嘻哈、另类、集体  
+Janelle Monáe：放克、RnB、科幻、女声  
+Mac DeMarco：独立流行、懒人摇滚、冷静、男声  
+Rufus Du Sol：电子、舞曲、大气  
+Bon Iver：独立民谣、空灵、亲密、男声  
+Florence + The Machine：独立摇滚、戏剧化、空灵  
+Jack White：摇滚、布鲁斯、原始、男声  
+Gary Clark：布鲁斯摇滚、深情、粗犷、男声  
+Leon Bridges：灵魂乐、节奏布鲁斯、复古、男声  
+Brittany Howard：摇滚、灵魂乐、强劲、女声  
+Alabama Shakes：摇滚、布鲁斯摇滚、深情  
+Glass Animals：迷幻流行、时髦、折衷风格  
+Portugal, The Man：另类摇滚、迷幻、朗朗上口  
+FKA Twigs：节奏布鲁斯、电子、前卫、女声  
+The National：独立摇滚、忧郁、内省  
+MGMT：迷幻流行、电子、俏皮  
+Empire of the Sun：电子、流行、戏剧  
+Grimes：艺术流行、电子、实验、女声  
+James Blake：电子、灵魂、极简主义、男声  
+The War on Drugs：独立摇滚、中心地带摇滚、旋律  
+Sufjan Stevens：独立民谣、巴洛克流行、亲密、男声  
+Bonobo：慢节奏、电子、氛围  
+Caribou：电子、迷幻、舞蹈  
+Four Tet：电子、氛围、纹理  
+Jamie xx：电子、浩室、极简  
+Nicolas Jaar：电子、实验、大气、男声  
+Flying Lotus：电子、实验嘻哈、融合、男声  
+Thundercat：放克、爵士、实验、男声  
+Kamasi Washington：爵士、融合、史诗、男声  
+Massive Attack：神游舞曲、黑暗、大气  
+Portishead：神游舞曲、黑暗、电影  
+Aphex Twin：IDM、电子、实验、男声  
+Boards of Canada：IDM、Downtempo、Nostalgic  
+Burial：Dubstep、Ambient、Mysterious  
+J Dilla：嘻哈、深情、实验、男声  
+MF DOOM：嘻哈、抽象、抒情、男声  
+Kendrick Lamar：嘻哈、有意识、抒情、男声  
+Blink-182：情绪流行摇滚、男声  
+Green Day：朋克摇滚、激进、青春
